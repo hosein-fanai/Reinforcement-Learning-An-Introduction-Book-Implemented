@@ -10,6 +10,8 @@ Chapter 1 (Tic-Tac-Toe)
 
 Chapter 2 (Figures 2.1-2.6 + Exercise 2.5 + Exercies 2.11)
 
+Chapter 3 (Figure 3.2 + Figure 3.5 + An Example)
+
 ## TODO
 Refactor the codes
 Add documentation
